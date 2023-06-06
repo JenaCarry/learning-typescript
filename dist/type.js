@@ -1,0 +1,11 @@
+"use strict";
+let anyType = 0;
+anyType = "Hello";
+anyType = true;
+anyType = null;
+anyType = undefined;
+anyType = [];
+let id = "Hello";
+id = 10;
+let userId = 10;
+let productId = "00123";
